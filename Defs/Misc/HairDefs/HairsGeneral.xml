@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <HairDef>
+        <defName>TGHairBun</defName>
+        <label>Hair Bun</label>
+        <hairGender>Male</hairGender>
+        <texPath>Things/Falleen/Hairs/TGHairBun</texPath>
+		<hairTags>
+		    <li>TGfalleenhair</li>
+		</hairTags>
+    </HairDef>
+
+    <HairDef>
+        <defName>TGHairBraided</defName>
+        <label>Hair Braided</label>
+        <hairGender>Any</hairGender>
+        <texPath>Things/Falleen/Hairs/TGHairBraided</texPath>
+		<hairTags>
+		    <li>TGfalleenhair</li>
+		</hairTags>
+    </HairDef>
+
+    <HairDef>
+        <defName>TGHairTiedUp</defName>
+        <label>Hair TiedUp</label>
+        <hairGender>Any</hairGender>
+        <texPath>Things/Falleen/Hairs/TGHairTiedUp</texPath>
+		<hairTags>
+		    <li>TGfalleenhair</li>
+		</hairTags>
+    </HairDef>
+
+
+</Defs>
